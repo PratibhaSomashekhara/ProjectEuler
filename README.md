@@ -39,11 +39,11 @@
     
 #### A description  of  the  process  you  followed  in  solving  the problem
 
-   1.Read and revisited about Roman Numerals a bit.
-   2.First I figured out all the combinations which can be shortened.
-   3.Now I need to Replace all the combinations with the shorter forms which I figured out.
-   4.Javascript gives a nice and clean way of replacing strings and I used that to achieve it.
-   5.Did some validation for checking the length of string and checking if anythin apart from roman numberals are being            passed.
+   1. Read and revisited about Roman Numerals a bit.
+   2. First I figured out all the combinations which can be shortened.
+   3. Now I need to Replace all the combinations with the shorter forms which I figured out.
+   4. Javascript gives a nice and clean way of replacing strings and I used that to achieve it.
+   5. Did some validation for checking the length of string and checking if anythin apart from roman numberals are being             passed.
    
    
 #### Problem 2 - Palindromic Sum  
@@ -69,11 +69,11 @@
     
 #### A description  of  the  process  you  followed  in  solving  the problem
 
-   1.This Problem was to find all the numbers which are palindromes and have continuous squares of numbers which add upto it.
-   2.The idea I figured out was to loop through all the squares of numbers having square roots smaller than 100000000.
-   3.Now every time I add both the consecutive numbers I will check if the number is palindrome or not.
-   4.If the number is palindrome then add it to a Sum variable or else keep trying till the end of the loop.
-   5.Return the Sum of all such palindromic numbers.
+   1. This Problem was to find all the numbers which are palindromes and have continuous squares of numbers which add upto it.
+   2. The idea I figured out was to loop through all the squares of numbers having square roots smaller than 100000000.
+   3. Now every time I add both the consecutive numbers I will check if the number is palindrome or not.
+   4. If the number is palindrome then add it to a Sum variable or else keep trying till the end of the loop.
+   5. Return the Sum of all such palindromic numbers.
      
    
 #### Problem 3 Combinatoric Selections
@@ -109,17 +109,17 @@
     
 #### A description  of  the  process  you  followed  in  solving  the problem
 
-   1.This Problem needs to find all the combinations within 100 which are greater than 1000000.
-   2.I figured out that we are repeating the same calculation for the same set of 100 numbers having factorials.
-   3.I thought it is best to store the factorials of 1-100 in an array and use it for all the combinations instead of calling      facotrial each time.
-   4.Best way to calculate 1-100 factorials is to use Dynamic Programming and I used that first.
-   5.Then I wrote two for loops to go through combinations of C and R to calculate all the combinations and check if it is          greater than 1000000.
-   6.If the number is 1000000 then increase the count of a variable.
-   7.Return the variable.
+   1. This Problem needs to find all the combinations within 100 which are greater than 1000000.
+   2. I figured out that we are repeating the same calculation for the same set of 100 numbers having factorials.
+   3. I thought it is best to store the factorials of 1-100 in an array and use it for all the combinations instead of calling       facotrial each time.
+   4. Best way to calculate 1-100 factorials is to use Dynamic Programming and I used that first.
+   5. Then I wrote two for loops to go through combinations of C and R to calculate all the combinations and check if it is         greater than 1000000.
+   6. If the number is 1000000 then increase the count of a variable.
+   7. Return the variable.
 
 
 
-###NOTE: The Problems 1 and 3 can be run in web browser too.
+###**NOTE**: The Problems 1 and 3 can be run in web browser too.
 > You can open a new tab in one of the web browsers (Chrome).
 > right click and open console.
 > paste the code and call it.
