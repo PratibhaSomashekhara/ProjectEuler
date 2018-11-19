@@ -119,10 +119,10 @@
 
 
 
-###**NOTE**: The Problems 1 and 3 can be run in web browser too.
+### **NOTE**: The Problems 1 and 3 can be run in web browser too.
 > You can open a new tab in one of the web browsers (Chrome).
 > right click and open console.
 > paste the code and call it.
 
-###**Time Taken to solve the Problems**
+### **Time Taken to solve the Problems**
 *Took a total of 2.5 Hrs to solve the three problems.*
