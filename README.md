@@ -34,6 +34,12 @@
     
 #### A sample of the output
     ![alt text](https://github.com/PratibhaSomashekhara/ProjectEuler/blob/master/RomanNumber_89.png "Roman Numeric 89 ")
+    
+    
+    
+#### A description  of  the  process  you  followed  in  solving  the problem
+
+   1. 
      
    
 
