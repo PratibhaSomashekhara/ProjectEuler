@@ -33,9 +33,7 @@
     4. Run the command "node roman.js" to execute the program.
     
 #### A sample of the output
-    ![alt text](
-        ProjectEuler/RomanNumber_89.png
-       "Roman Numeric 89 ")
+    ![alt text](https://github.com/PratibhaSomashekhara/ProjectEuler/blob/master/RomanNumber_89.png "Roman Numeric 89 ")
      
    
 
