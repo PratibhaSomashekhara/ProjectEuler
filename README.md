@@ -37,7 +37,7 @@
     
     
     
-#### A description  of  the  process  you  followed  in  solving  the problem
+#### A description  of  the  process  followed  in  solving  the problem
 
    1. Read and revisited about Roman Numerals a bit.
    2. First I figured out all the combinations which can be shortened.
@@ -67,7 +67,7 @@
     
     
     
-#### A description  of  the  process  you  followed  in  solving  the problem
+#### A description  of  the  process  followed  in  solving  the problem
 
    1. This Problem was to find all the numbers which are palindromes and have continuous squares of numbers which add upto it.
    2. The idea I figured out was to loop through all the squares of numbers having square roots smaller than 100000000.
@@ -107,7 +107,7 @@
     
     
     
-#### A description  of  the  process  you  followed  in  solving  the problem
+#### A description  of  the  process  followed  in  solving  the problem
 
    1. This Problem needs to find all the combinations within 100 which are greater than 1000000.
    2. I figured out that we are repeating the same calculation for the same set of 100 numbers having factorials.
