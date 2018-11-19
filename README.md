@@ -123,3 +123,6 @@
 > You can open a new tab in one of the web browsers (Chrome).
 > right click and open console.
 > paste the code and call it.
+
+###**Time Taken to solve the Problems**
+*Took a total of 2.5 Hrs to solve the three problems.*
